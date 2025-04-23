@@ -2,6 +2,10 @@
 
 # uiautomator2
 
+
+#前言
+方便英文不好的朋友学习，上传此中文版文档，以下为原作者文档正文，QQ群等信息也未做更改如果有不准确的地方，欢迎各位大佬指正
+
 [📖 查看英文版](README.md)
 
 [![PyPI](https://img.shields.io/pypi/v/uiautomator2.svg)](https://pypi.python.org/pypi/uiautomator2)
